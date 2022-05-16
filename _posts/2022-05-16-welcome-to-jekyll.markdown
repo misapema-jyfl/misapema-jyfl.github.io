@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New Title"
+title:  "Default Jekyll post"
 date:   2022-05-16 14:54:28 +0300
 categories: jekyll update
 author: "Miha Luntinen"
