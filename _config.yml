@@ -19,21 +19,18 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Miha Luntinen
-author:
-  name: Miha Luntinen
-  email: miha.luntinen@gmail.com
+name: Miha Luntinen
+email: miha.luntinen@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The homepage of Miha Luntinen, master of science and father of one.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
+github_username: misapema-jyfl
+linkedin_username: miha-luntinen-6588b4209
+
 minima:
   date_format: "%Y-%m-%d"
-
-  social_links:
-    twitter: mihaluntinen
-    github:  misapema-jyfl
-    linkedin: miha-luntinen-6588b4209
 
 # Build settings
 theme: minima
