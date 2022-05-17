@@ -36,16 +36,6 @@ plugins:
 
 
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      author: "Miha Luntinen"
-
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.
